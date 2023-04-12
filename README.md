@@ -1,1 +1,1 @@
-# sql-training-projects
+# SQL Example Work
